@@ -46,7 +46,7 @@
     "path": "YouTube Tutorial Git and Github for GameMaker 2.3.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "rm_test",
   "tags": [],
   "resourceType": "GMRoom",
 }
